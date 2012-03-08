@@ -1,0 +1,17 @@
+{
+  "author": "Matt Walters <mattwalters5@gmail.com>",
+  "name": "pidler",
+  "description": "Simple module to create pid files",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mateodelnorte/pidler.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
